@@ -6,20 +6,15 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="New York" />
+        <Weather defaultCity="San Francisco" />
 
         <footer>
           This project was coded by{" "}
-          <a
-            href=""
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Matt Delac
-          </a>{" "}
+
+            Karyna Mikhieienko
           and is{" "}
           <a
-            href=""
+            href="https://github.com/karina-mi/Weather-Project"
             target="_blank"
             rel="noopener noreferrer"
           >
